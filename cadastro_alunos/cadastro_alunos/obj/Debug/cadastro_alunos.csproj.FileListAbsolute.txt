@@ -1,0 +1,42 @@
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.exe
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.pdb
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Form1.resources
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Properties.Resources.resources
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csproj.GenerateResource.Cache
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.exe
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.pdb
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Cadastro.resources
+C:\Users\Curso\Documents\Visual Studio 2008\Projects\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Busca.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.exe.config
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.exe
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.pdb
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\bin\Debug\MySql.Data.dll
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\bin\Debug\Google.Protobuf.dll
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\bin\Debug\MySql.Data.xml
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csprojAssemblyReference.cache
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Busca.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Cadastro.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Form1.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Properties.Resources.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csproj.GenerateResource.cache
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csproj.CoreCompileInputs.cache
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csproj.CopyComplete
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.exe
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.pdb
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.exe.config
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.exe
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\bin\Debug\cadastro_alunos.pdb
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\bin\Debug\MySql.Data.dll
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\bin\Debug\Google.Protobuf.dll
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\bin\Debug\MySql.Data.xml
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csprojAssemblyReference.cache
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Busca.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Cadastro.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Form1.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.Properties.Resources.resources
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csproj.GenerateResource.cache
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csproj.CoreCompileInputs.cache
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.csproj.CopyComplete
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.exe
+C:\Users\Alemão\Desktop\cadastro_alunos\cadastro_alunos\cadastro_alunos\obj\Debug\cadastro_alunos.pdb
